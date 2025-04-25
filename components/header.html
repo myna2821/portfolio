@@ -1,0 +1,30 @@
+<template id="header">
+  <header class="absolute z-50 top-0 left-0 w-full bg-transparent px-4 py-8">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-4xl font-bold">Digital Marketing</h1>
+      <nav>
+        <ul class="flex space-x-12 items-center text-lg">
+          <li class="invisible">
+            <div class="flex gap-2 items-center">
+              <span data-lang="change-language"></span>
+              <select
+                id="language-select"
+                class="rounded-md border border-input bg-card p-0.5 text-lg cursor-pointer shadow-sm ring-offset-background data-[placeholder]:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacitringy-50 [&>span]:line-clamp-1"
+              >
+                <option value="vi">vi</option>
+                <option value="en">en</option>
+              </select>
+            </div>
+          </li>
+          <li>
+            <a
+              href="tel:0386001925"
+              class="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-full font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 px-4 py-2"
+              data-lang="contact-me"
+            ></a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+</template>

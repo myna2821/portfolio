@@ -1,0 +1,28 @@
+{
+  "vi": {
+    "greeting": "Xin chào",
+    "welcome": "Chào mừng bạn đến với trang web của chúng tôi!",
+    "change-language": "Ngôn ngữ",
+    "contact-me": "Liên hệ ngay",
+    "introduction-name": "Mỹ Na",
+    "introduction-fullname": "Trần Thị Mỹ Na",
+    "introduction-greeting": "Ngày mới vui vẻ nha!",
+    "introduction-desc": "Với hơn hai năm hoạt động trong lĩnh vực marketing, làm việc với các công cụ như Google Ads, Facebook Ads nhằm cung cấp các giải pháp về tiếp thị kỹ thuật số, SEO. Có kỹ năng trong việc tạo nội dung số bằng Capcut, Canva,... Kết hợp với các công cụ AI nhằm cải thiện chất lượng.",
+    "introduction-gender": "Nữ",
+    "introduction-birthday": "02 tháng 8, 2001",
+    "introduction-living": "Bình Nhâm, Thuận An, Bình Dương"
+  },
+  "en": {
+    "greeting": "Hello",
+    "welcome": "Welcome to our website!",
+    "change-language": "Language",
+    "contact-me": "Get in touch",
+    "introduction-name": "My Na",
+    "introduction-fullname": "Tran Thi My Na",
+    "introduction-desc": "Với hơn hai năm hoạt động trong lĩnh vực marketing, làm việc với các công cụ như Google Ads, Facebook Ads nhằm cung cấp các giải pháp về tiếp thị kỹ thuật số, SEO. Có kỹ năng trong việc tạo nội dung số bằng Capcut, Canva,... Kết hợp với các công cụ AI nhằm cải thiện chất lượng.",
+    "introduction-greeting": "Have a good day!",
+    "introduction-gender": "Female",
+    "introduction-birthday": "2nd August, 2001",
+    "introduction-living": "Binh Nham, Thuan An, Binh Duong"
+  }
+}
